@@ -82,4 +82,4 @@ Click **Build and Run** to save and launch the code
 
 ![Blue Color LED](http://i.imgur.com/fM3lztr)
 
-![Blue Color LED](http://i.imgur.com/5ecVLuF)
+![Blue Color LED](http://i.imgur.com/5ecVLuF.jpg)
