@@ -76,7 +76,7 @@ Click **Build and Run** to save and launch the code
 ### STEP 4 - Testing the application
 
 1. I have used POSTMAN application to make calls. You can use any browser 
-2. Once you run the application, you will get a url on the console like  https://agent.electricimp.com/aNbU-IPw_nZr?led=1&r=<NUMBER>&g=<NUMBER>&b=<NUMBER>
+2. Once you run the application, you will get a url on the console like  https://agent.electricimp.com/aNbU-IPw_nZr?led=1&r=NUMBER&g=NUMBER&b=NUMBER
 3. The led=1 indicates to switch on the light and led =0 indicates switch off the light.
 4. Enter the desired combination on parameters rgb to get light. For more details on RGB [Wikepedia-RGB](https://en.wikipedia.org/wiki/RGB_color_model) and to get the color codes [RGB COLOR CODES](http://www.rapidtables.com/web/color/RGB_Color.htm)
 
