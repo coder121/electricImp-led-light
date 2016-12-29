@@ -80,6 +80,11 @@ Click **Build and Run** to save and launch the code
 3. The led=1 indicates to switch on the light and led =0 indicates switch off the light.
 4. Enter the desired combination on parameters rgb to get light. For more details on RGB [Wikepedia-RGB](https://en.wikipedia.org/wiki/RGB_color_model) and to get the color codes [RGB COLOR CODES](http://www.rapidtables.com/web/color/RGB_Color.htm)
 
+### STEP 5 - Demonstration of the application
+
 ![HTTP REQUEST](http://i.imgur.com/XKyudNm.jpg)
 
 ![Blue Color LED](http://i.imgur.com/5ecVLuF.jpg)
+
+![RED COLOR LED](http://i.imgur.com/ONc2oTG.jpg)
+![GREEN COLOR LED](http://i.imgur.com/5TyIvxN.jpg)
