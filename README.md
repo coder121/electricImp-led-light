@@ -86,5 +86,12 @@ Click **Build and Run** to save and launch the code
 
 ![Blue Color LED](http://i.imgur.com/5ecVLuF.jpg)
 
+You can change r,g,b value to get different color light.
+
 ![RED COLOR LED](http://i.imgur.com/ONc2oTG.jpg)
 ![GREEN COLOR LED](http://i.imgur.com/5TyIvxN.jpg)
+
+### Enhancements
+
+Create a mobile app where user can select the color and change the color of the led as well as switch on and switch off the light 
+
