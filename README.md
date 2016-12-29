@@ -1,6 +1,6 @@
-#Electric Imp LED LIGHT
+#Electric Imp Led Light Controller
 
-Created LEG light controlled useing Electic IMP device and REST.
+Recently I went to IBM IOT Hackathon and got Electic IMP device and thought of playing with it and this is the first application I created LED Light controller useing Electic IMP device and REST.
 
 ## Overview
 Skill Level: Beginner
